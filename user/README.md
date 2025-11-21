@@ -1,6 +1,9 @@
 # React Login and Registration example with JWT and HttpOnly cookie
 
 **Author:** Elizabeth Mijide
+Deployment
+tafuta-pata-p96a7tjpz-lizz064s-projects.vercel.app
+
 
 **Email:** [elizabeth.mijide@example.com](mailto:elizabeth.mijide@example.com)
 

@@ -4,6 +4,8 @@
 Deployment
 tafuta-pata-p96a7tjpz-lizz064s-projects.vercel.app
 
+https://lizz064.github.io/TafutaPataJob/
+
 
 **Email:** [elizabeth.mijide@example.com](mailto:elizabeth.mijide@example.com)
 
